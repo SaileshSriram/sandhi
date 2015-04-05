@@ -12,4 +12,7 @@
 	url = http://github.com/manojgudi/grex.git
 [submodule "gr36"]
 	path = gr36
-	url = http://github.com/gnu-sandhi/gnuradio.git
+	url = https://github.com/FOSSEE-Manipal/gnuradio
+[submodule "gnuradio"]
+	path = gnuradio
+	url = https://github.com/FOSSEE-Manipal/gnuradio
